@@ -1,0 +1,8 @@
+Download MOCK_DATA.txt and look for:
+
+- All IP addresses with 4 in any of the octets.
+sample MOCK_DATA.txt
+
+- How many times the . character appears in the file
+sample MOCK_DATA.txt | grep 4
+

@@ -1,0 +1,8 @@
+List all of the lines that contain:
+
+	At least 2 vowels: grep -iE [aeiou]*[aeiou] fruitsandnuts 
+	The text 'berr': egrep -i berr fruitsandnuts 
+	The letter 'e': egrep -i fruitsandnuts 
+	The word 'fruit': ter 'e': egrep -i fruit fruitsandnuts 
+	A regular expression that will show only 'Apples': grep -iE Apples{1} fruitsandnuts 
+	A regular expression that will show only 'Appples': grep -iE Appples{1} fruitsandnuts 
